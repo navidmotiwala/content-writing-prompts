@@ -15,7 +15,6 @@ In-Depth Creative
 
 
 
-                                               adcreativeacademy.com
 ```
 
 ## Page 2
@@ -84,7 +83,6 @@ Document your current performance to establish a baseline for improvement.
 
 
 
-                                      Research for Creative Strategy                               adcreativeacademy.com
 ```
 
 ## Page 3
@@ -112,7 +110,6 @@ Verify that your campaign structure and optimization settings support your objec
 
 
 
-                                      Research for Creative Strategy                      adcreativeacademy.com
 ```
 
 ## Page 4
@@ -184,7 +181,6 @@ Break down video performance by duration.
 
 
 
-                                       Research for Creative Strategy                             adcreativeacademy.com
 ```
 
 ## Page 5
@@ -233,7 +229,6 @@ Creative Diversity Assessment
 
 
 
-                                   Research for Creative Strategy            adcreativeacademy.com
 ```
 
 ## Page 6
@@ -296,7 +291,6 @@ Compare performance of different visual approaches.
 
 
 
-                                       Research for Creative Strategy                          adcreativeacademy.com
 ```
 
 ## Page 7
@@ -361,7 +355,6 @@ Compare performance of different messaging approaches.
 
 
 
-                                       Research for Creative Strategy                          adcreativeacademy.com
 ```
 
 ## Page 8
@@ -418,7 +411,6 @@ Analyze what works in your highest hook rate videos.
 
 
 
-                                     Research for Creative Strategy              adcreativeacademy.com
 ```
 
 ## Page 9
@@ -481,7 +473,6 @@ Analyze how different audience segments respond to your creative.
 
 
 
-                                    Research for Creative Strategy                 adcreativeacademy.com
 ```
 
 ## Page 10
@@ -544,7 +535,6 @@ Analyze how different audience segments respond to your creative.
 
 
 
-                                    Research for Creative Strategy                 adcreativeacademy.com
 ```
 
 ## Page 11
@@ -586,7 +576,6 @@ Compare creative performance across the customer journey.
 
 
 
-                                   Research for Creative Strategy                  adcreativeacademy.com
 ```
 
 ## Page 12
@@ -648,7 +637,6 @@ Analyze performance differences across platforms.
 
 
 
-                                    Research for Creative Strategy                adcreativeacademy.com
 ```
 
 ## Page 13
@@ -691,7 +679,6 @@ Evaluate return on creative production investment.
 
 
 
-                                     Research for Creative Strategy                  adcreativeacademy.com
 ```
 
 ## Page 14
@@ -718,7 +705,6 @@ Analyze performance by creator/talent.
 
 
 
-                                     Research for Creative Strategy                            adcreativeacademy.com
 ```
 
 ## Page 15
@@ -764,7 +750,6 @@ Calculate the effective duration of your creative before fatigue.
 
 
 
-                                       Research for Creative Strategy                    adcreativeacademy.com
 ```
 
 ## Page 16
@@ -791,7 +776,6 @@ Analyze how different landing pages perform with various creative types.
 
 
 
-                                       Research for Creative Strategy                          adcreativeacademy.com
 ```
 
 ## Page 17
@@ -820,7 +804,6 @@ Evaluate the consistency between ad creative and landing experience.
 
 
 
-                                     Research for Creative Strategy                          adcreativeacademy.com
 ```
 
 ## Page 18
@@ -881,7 +864,6 @@ Based on your analysis, identify the 3-5 creative principles that should guide y
 
 
 
-                                          Research for Creative Strategy                   adcreativeacademy.com
 ```
 
 ## Page 19
@@ -933,7 +915,6 @@ Outline your prioritized testing plan based on audit findings.
 
 
 
-                                       Research for Creative Strategy                             adcreativeacademy.com
 ```
 
 ## Page 20
@@ -959,7 +940,6 @@ For each top-performing creative, outline specific iteration opportunities.
 
 
 
-                                        Research for Creative Strategy                          adcreativeacademy.com
 ```
 
 ## Page 21
@@ -1012,7 +992,6 @@ Set specific goals for creative performance improvement.
 
 
 
-                                     Research for Creative Strategy                            adcreativeacademy.com
 ```
 
 ## Page 22
@@ -1059,7 +1038,6 @@ Establish a schedule for creative development and refreshes.
 
 
 
-                                       Research for Creative Strategy                            adcreativeacademy.com
 ```
 
 ## Page 23
@@ -1098,7 +1076,6 @@ Establish a schedule for creative development and refreshes.
 
 
 
-                                     Research for Creative Strategy            adcreativeacademy.com
 ```
 
 ## Page 24
@@ -1111,11 +1088,9 @@ The World's First Academy
 
 Get access to all the courses, worksheets, templates, and
 AI prompts to become a world-class Creative Strategist at
-               adcreativeacademy.com
 
 
 
 
-                   adcreativeacademy.com
 ```
 
