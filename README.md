@@ -8,7 +8,7 @@ The prompts focus on accurate information, natural writing, complete search inte
 
 | Prompt | Description |
 | --- | --- |
-| [Universal SEO, AEO, GEO and AI Search Content Writing Master Prompt](prompts/universal-seo-aeo-geo-ai-search-content-writing.md) | Complete article-writing workflow covering research, keyword mapping, source verification, semantic structure, internal links, metadata, and final quality checks. |
+| [Content Writing Prompt](prompts/universal-seo-aeo-geo-ai-search-content-writing.md) | Complete article-writing workflow covering research, keyword mapping, source verification, semantic structure, internal links, metadata, and final quality checks. |
 
 ## How to Use
 
