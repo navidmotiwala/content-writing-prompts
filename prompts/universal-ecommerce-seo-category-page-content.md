@@ -1,4 +1,4 @@
-# Universal Master Prompt: SEO Category Page Content for E-commerce Websites
+# E-commerce SEO Category Page Content Prompt
 
 ## 1. Role
 
