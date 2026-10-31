@@ -15,7 +15,6 @@ Building Blocks Analysis
 
 
 
-                                           adcreativeacademy.com
 ```
 
 ## Page 2
@@ -64,7 +63,6 @@ User Input Section:
 
 
 
-                                    Creative Fundamentals                              adcreativeacademy.com
 ```
 
 ## Page 3
@@ -123,7 +121,6 @@ These showcase the offering:
 
 
 
-                                       Creative Fundamentals                            adcreativeacademy.com
 ```
 
 ## Page 4
@@ -180,7 +177,6 @@ Ad for Analysis
 
 
 
-                                          Creative Fundamentals                               adcreativeacademy.com
 ```
 
 ## Page 5
@@ -193,11 +189,9 @@ The World's First Academy
 
 Get access to all the courses, worksheets, templates, and
 AI prompts to become a world-class Creative Strategist at
-               adcreativeacademy.com
 
 
 
 
-                   adcreativeacademy.com
 ```
 
