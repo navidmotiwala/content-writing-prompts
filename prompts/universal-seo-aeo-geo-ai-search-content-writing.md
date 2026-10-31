@@ -1,4 +1,4 @@
-# Universal SEO, AEO, GEO and AI Search Content Writing Master Prompt
+# Content Writing Prompt
 
 ## 1. Role and Objective
 
