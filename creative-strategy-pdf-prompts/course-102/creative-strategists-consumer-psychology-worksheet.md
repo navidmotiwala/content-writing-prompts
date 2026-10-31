@@ -18,7 +18,6 @@ Course 102: State of Paid Social Advertising & Consumer Psychology
 
 
 
-                                                         adcreativeacademy.com
 ```
 
 ## Page 2
@@ -63,7 +62,6 @@ Based on this assessment, my primary messaging approach should be:
 
 
 
-                                    State of Paid Social Advertising & Consumer Psychology                        adcreativeacademy.com
 ```
 
 ## Page 3
@@ -112,7 +110,6 @@ My product helps customers feel:
 
 
 
-                                State of Paid Social Advertising & Consumer Psychology                adcreativeacademy.com
 ```
 
 ## Page 4
@@ -165,7 +162,6 @@ Establishing rapport and relatability                       Limited availability
 
 
 
-                           State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 5
@@ -216,7 +212,6 @@ Testimonial/story angle:
 
 
 
-                           State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 6
@@ -252,7 +247,6 @@ FOR MOST AWARE AUDIENCES:
 
 
 
-                                 State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 7
@@ -297,7 +291,6 @@ If running a campaign with multiple touchpoints, plan your message sequence:
 
 
 
-                      State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 8
@@ -342,7 +335,6 @@ Areas for Improvement
 
 
 
-                            State of Paid Social Advertising & Consumer Psychology                adcreativeacademy.com
 ```
 
 ## Page 9
@@ -383,7 +375,6 @@ Before → After → Bridge                               Objection → Counter 
 
 
 
-                         State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 10
@@ -396,11 +387,9 @@ The World's First Academy
 
 Get access to all the courses, worksheets, templates, and
 AI prompts to become a world-class Creative Strategist at
-               adcreativeacademy.com
 
 
 
 
-                   adcreativeacademy.com
 ```
 
