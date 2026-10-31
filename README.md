@@ -9,15 +9,16 @@ The prompts focus on accurate information, natural writing, complete search inte
 | Prompt | Description |
 | --- | --- |
 | [Content Writing Prompt](prompts/universal-seo-aeo-geo-ai-search-content-writing.md) | Complete article-writing workflow covering research, keyword mapping, source verification, semantic structure, internal links, metadata, and final quality checks. |
+| [E-commerce SEO Category Page Content Prompt](prompts/universal-ecommerce-seo-category-page-content.md) | Reusable category and collection page template with first-fold content, five footer sections, product-specific buying tips, keyword guidance, and quality checks. |
 
 ## How to Use
 
 1. Open the prompt from the library above.
 2. Copy the complete prompt into the AI assistant of choice.
-3. Replace the bracketed input placeholders with the article details.
+3. Replace the bracketed input placeholders with the article or category page details.
 4. Review the draft, verify sources, check brand requirements, and make any necessary editorial changes before publishing.
 
-## Included in the Master Prompt
+## Included in the Article Master Prompt
 
 - Content brief, audience, topic, keywords, and search intent
 - Research and factual verification requirements
@@ -30,6 +31,15 @@ The prompts focus on accurate information, natural writing, complete search inte
 - Meta title and description limits
 - Section-level keyword and word-count mapping
 - Publication checklist and quality assurance
+
+## Included in the E-commerce Category Page Prompt
+
+- Brand-neutral inputs using placeholders such as `[Brand Name]` and `[Category Name]`
+- First-fold introduction of 50–80 words and footer content of 300–400 words
+- Five adaptable footer sections for product selection, features, subcategories, and buying advice
+- Category-specific guidance for gifting, furniture, electronics, fashion, beauty, and more
+- Natural keyword placement, relevant internal linking, and factual verification
+- Editorial quality checklist and a ready-to-publish output structure
 
 ## Notes
 
