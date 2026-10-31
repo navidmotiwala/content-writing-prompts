@@ -15,7 +15,6 @@ Course 102: State of Paid Social Advertising & Consumer Psychology
 
 
 
-                                                         adcreativeacademy.com
 ```
 
 ## Page 2
@@ -37,7 +36,6 @@ creative work and how to replicate success.
 
 
 
-                   State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 3
@@ -81,7 +79,6 @@ Hook Section (0-3 seconds)
 
 
 
-                           State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 4
@@ -120,7 +117,6 @@ Body Section (0-3 seconds)
 
 
 
-                           State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 5
@@ -164,7 +160,6 @@ CTA Section
 
 
 
-                           State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 6
@@ -218,7 +213,6 @@ Demonstration
 
 
 
-                               State of Paid Social Advertising & Consumer Psychology                adcreativeacademy.com
 ```
 
 ## Page 7
@@ -272,7 +266,6 @@ Buying Experience
 
 
 
-                             State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 8
@@ -309,7 +302,6 @@ Unboxing (if applicable)
 
 
 
-                              State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 9
@@ -363,7 +355,6 @@ Failed Alternative
 
 
 
-                              State of Paid Social Advertising & Consumer Psychology                adcreativeacademy.com
 ```
 
 ## Page 10
@@ -417,7 +408,6 @@ Before & After
 
 
 
-                              State of Paid Social Advertising & Consumer Psychology                adcreativeacademy.com
 ```
 
 ## Page 11
@@ -473,7 +463,6 @@ Storytelling
 
 
 
-                              State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 12
@@ -508,14 +497,12 @@ Which specific blocks or combinations could be reused in other contexts?
 
 
 
-                      State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 13
 
 ```text
                                                                                Ad Building Blocks Analysis Worksheet
-                                                                                          adcreativeacademy.com
 
 
 
@@ -545,7 +532,6 @@ How could this ad be improved by modifying, adding, or rearranging specific bloc
 
 
 
-                      State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 14
@@ -590,7 +576,6 @@ Summarize the essential block sequence that makes this ad work:
 
 
 
-                              State of Paid Social Advertising & Consumer Psychology                adcreativeacademy.com
 ```
 
 ## Page 15
@@ -622,7 +607,6 @@ Final Notes & Observations
 
 
 
-                           State of Paid Social Advertising & Consumer Psychology               adcreativeacademy.com
 ```
 
 ## Page 16
@@ -635,11 +619,9 @@ The World's First Academy
 
 Get access to all the courses, worksheets, templates, and
 AI prompts to become a world-class Creative Strategist at
-               adcreativeacademy.com
 
 
 
 
-                   adcreativeacademy.com
 ```
 
