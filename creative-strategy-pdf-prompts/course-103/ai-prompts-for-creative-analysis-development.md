@@ -17,7 +17,6 @@ Analysis & Development
 
 
 
-                                            adcreativeacademy.com
 ```
 
 ## Page 2
@@ -72,7 +71,6 @@ Audience Pain Point Mining
 
 
 
-                                  Creative Fundamentals                        adcreativeacademy.com
 ```
 
 ## Page 3
@@ -110,7 +108,6 @@ Building Block Mixer
 
 
 
-                                Creative Fundamentals                        adcreativeacademy.com
 ```
 
 ## Page 4
@@ -152,7 +149,6 @@ Hook Generator
 
 
 
-                               Creative Fundamentals                        adcreativeacademy.com
 ```
 
 ## Page 5
@@ -207,7 +203,6 @@ A/B Test Designer
 
 
 
-                               Creative Fundamentals                         adcreativeacademy.com
 ```
 
 ## Page 6
@@ -225,7 +220,6 @@ CONSUMER PSYCHOLOGY EDITION
 
 
 
-                                                     adcreativeacademy.com
 ```
 
 ## Page 7
@@ -281,7 +275,6 @@ Use the "Building Block Mixer" prompt to create new concepts that:
 
 
 
-                                 AI Powered Iterations & Creative Improvement                      adcreativeacademy.com
 ```
 
 ## Page 8
@@ -341,7 +334,6 @@ Document which block variations performed best for specific:
 
 
 
-                                 AI Powered Iterations & Creative Improvement                          adcreativeacademy.com
 ```
 
 ## Page 9
@@ -405,7 +397,6 @@ Workflow 3: New Campaign Development
 
 
 
-                                  AI Powered Iterations & Creative Improvement                    adcreativeacademy.com
 ```
 
 ## Page 10
@@ -418,11 +409,9 @@ The World's First Academy
 
 Get access to all the courses, worksheets, templates, and
 AI prompts to become a world-class Creative Strategist at
-               adcreativeacademy.com
 
 
 
 
-                   adcreativeacademy.com
 ```
 
