@@ -15,7 +15,6 @@ Analysis Worksheet
 
 
 
-                                        adcreativeacademy.com
 ```
 
 ## Page 2
@@ -37,7 +36,6 @@ creative work and how to replicate success.
 
 
 
-                             Creative Fundamentals                 adcreativeacademy.com
 ```
 
 ## Page 3
@@ -81,7 +79,6 @@ Hook Section (0-3 seconds)
 
 
 
-                                         Creative Fundamentals                      adcreativeacademy.com
 ```
 
 ## Page 4
@@ -120,7 +117,6 @@ Body Section (0-3 seconds)
 
 
 
-                                         Creative Fundamentals                      adcreativeacademy.com
 ```
 
 ## Page 5
@@ -164,7 +160,6 @@ CTA Section
 
 
 
-                                         Creative Fundamentals                      adcreativeacademy.com
 ```
 
 ## Page 6
@@ -218,7 +213,6 @@ Demonstration
 
 
 
-                                        Creative Fundamentals                                adcreativeacademy.com
 ```
 
 ## Page 7
@@ -272,7 +266,6 @@ Buying Experience
 
 
 
-                                        Creative Fundamentals                              adcreativeacademy.com
 ```
 
 ## Page 8
@@ -309,7 +302,6 @@ Unboxing (if applicable)
 
 
 
-                                        Creative Fundamentals                            adcreativeacademy.com
 ```
 
 ## Page 9
@@ -363,7 +355,6 @@ Failed Alternative
 
 
 
-                                        Creative Fundamentals                                adcreativeacademy.com
 ```
 
 ## Page 10
@@ -417,7 +408,6 @@ Before & After
 
 
 
-                                        Creative Fundamentals                                adcreativeacademy.com
 ```
 
 ## Page 11
@@ -473,7 +463,6 @@ Storytelling
 
 
 
-                                        Creative Fundamentals                              adcreativeacademy.com
 ```
 
 ## Page 12
@@ -508,14 +497,12 @@ Which specific blocks or combinations could be reused in other contexts?
 
 
 
-                                  Creative Fundamentals                    adcreativeacademy.com
 ```
 
 ## Page 13
 
 ```text
                                                                  Ad Building Blocks Analysis Worksheet
-                                                                            adcreativeacademy.com
 
 
 
@@ -545,7 +532,6 @@ How could this ad be improved by modifying, adding, or rearranging specific bloc
 
 
 
-                                  Creative Fundamentals                      adcreativeacademy.com
 ```
 
 ## Page 14
@@ -590,7 +576,6 @@ Summarize the essential block sequence that makes this ad work:
 
 
 
-                                             Creative Fundamentals                                  adcreativeacademy.com
 ```
 
 ## Page 15
@@ -622,7 +607,6 @@ Final Notes & Observations
 
 
 
-                                        Creative Fundamentals               adcreativeacademy.com
 ```
 
 ## Page 16
@@ -635,11 +619,9 @@ The World's First Academy
 
 Get access to all the courses, worksheets, templates, and
 AI prompts to become a world-class Creative Strategist at
-               adcreativeacademy.com
 
 
 
 
-                   adcreativeacademy.com
 ```
 
