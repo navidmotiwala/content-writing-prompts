@@ -15,7 +15,6 @@ Creative Assistance
 
 
 
-                                                adcreativeacademy.com
 ```
 
 ## Page 2
@@ -75,7 +74,6 @@ identify patterns, generate insights, and develop strategic recommendations.
 
 
 
-                                    Research for Creative Strategy                  adcreativeacademy.com
 ```
 
 ## Page 3
@@ -131,7 +129,6 @@ Data Analysis Assistance Prompts
 
 
 
-                            Research for Creative Strategy            adcreativeacademy.com
 ```
 
 ## Page 4
@@ -179,7 +176,6 @@ Data Analysis Assistance Prompts
 
 
 
-                            Research for Creative Strategy              adcreativeacademy.com
 ```
 
 ## Page 5
@@ -209,7 +205,6 @@ Data Analysis Assistance Prompts
 
 
 
-                            Research for Creative Strategy            adcreativeacademy.com
 ```
 
 ## Page 6
@@ -265,7 +260,6 @@ Strategic Interpretation Prompts
 
 
 
-                            Research for Creative Strategy            adcreativeacademy.com
 ```
 
 ## Page 7
@@ -314,7 +308,6 @@ Strategic Interpretation Prompts
 
 
 
-                            Research for Creative Strategy            adcreativeacademy.com
 ```
 
 ## Page 8
@@ -368,7 +361,6 @@ Strategic Interpretation Prompts
 
 
 
-                            Research for Creative Strategy               adcreativeacademy.com
 ```
 
 ## Page 9
@@ -425,7 +417,6 @@ Data Visualization Request Prompts
 
 
 
-                             Research for Creative Strategy            adcreativeacademy.com
 ```
 
 ## Page 10
@@ -438,11 +429,9 @@ The World's First Academy
 
 Get access to all the courses, worksheets, templates, and
 AI prompts to become a world-class Creative Strategist at
-               adcreativeacademy.com
 
 
 
 
-                   adcreativeacademy.com
 ```
 
