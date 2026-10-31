@@ -16,7 +16,6 @@ AI Prompts and Tools
 
 
 
-                                                 adcreativeacademy.com
 ```
 
 ## Page 2
@@ -78,7 +77,6 @@ Identify Patterns Across Multiple Products
 
 
 
-                             Research for Creative Strategy                                adcreativeacademy.com
 ```
 
 ## Page 3
@@ -137,7 +135,6 @@ Recommended Tools for Review Mining
 
 
 
-                                      Research for Creative Strategy                                adcreativeacademy.com
 ```
 
 ## Page 4
@@ -194,7 +191,6 @@ Social Media Comment Extraction
 
 
 
-                             Research for Creative Strategy                                adcreativeacademy.com
 ```
 
 ## Page 5
@@ -252,7 +248,6 @@ Recommended Tools for Forum/Social Analysis
 
 
 
-                                      Research for Creative Strategy                                adcreativeacademy.com
 ```
 
 ## Page 6
@@ -309,7 +304,6 @@ Search Term Expansion & Insight Generation
 
 
 
-                             Research for Creative Strategy                                adcreativeacademy.com
 ```
 
 ## Page 7
@@ -368,7 +362,6 @@ Recommended Tools for Search & Question Analysis
 
 
 
-                                      Research for Creative Strategy                                adcreativeacademy.com
 ```
 
 ## Page 8
@@ -429,7 +422,6 @@ Search Term Expansion & Insight Generation
 
 
 
-                             Research for Creative Strategy                                adcreativeacademy.com
 ```
 
 ## Page 9
@@ -491,7 +483,6 @@ Recommended Integrated Research Tools
 
 
 
-                                     Research for Creative Strategy                                adcreativeacademy.com
 ```
 
 ## Page 10
@@ -542,7 +533,6 @@ Here's a recommended end-to-end workflow to automate your audience research:
 
 
 
-                                       Research for Creative Strategy                                adcreativeacademy.com
 ```
 
 ## Page 11
@@ -580,7 +570,6 @@ AI Research Assistant Prompt
 
 
 
-                            Research for Creative Strategy                                adcreativeacademy.com
 ```
 
 ## Page 12
@@ -608,7 +597,6 @@ module, not to skip learning the fundamental skills.
 
 
 
-                              Research for Creative Strategy                                adcreativeacademy.com
 ```
 
 ## Page 13
@@ -621,11 +609,9 @@ The World's First Academy
 
 Get access to all the courses, worksheets, templates, and
 AI prompts to become a world-class Creative Strategist at
-               adcreativeacademy.com
 
 
 
 
-                   adcreativeacademy.com
 ```
 
