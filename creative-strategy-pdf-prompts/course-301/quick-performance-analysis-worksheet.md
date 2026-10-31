@@ -15,7 +15,6 @@ Analysis Worksheet
 
 
 
-                                               adcreativeacademy.com
 ```
 
 ## Page 2
@@ -83,7 +82,6 @@ Messaging & Pain Points
 
 
 
-                                      Research for Creative Strategy                       adcreativeacademy.com
 ```
 
 ## Page 3
@@ -142,7 +140,6 @@ Format & Production Elements
 
 
 
-                                         Research for Creative Strategy                  adcreativeacademy.com
 ```
 
 ## Page 4
@@ -205,14 +202,12 @@ What specific elements do you believe make this creative your "unicorn"?
 
 
 
-                                       Research for Creative Strategy                    adcreativeacademy.com
 ```
 
 ## Page 5
 
 ```text
                                                                                 Quick Performance Analysis Worksheet
-                                                                                           adcreativeacademy.com
 
 
 
@@ -233,7 +228,6 @@ CPA, etc.).
 
 
 
-                                      Research for Creative Strategy                        adcreativeacademy.com
 ```
 
 ## Page 6
@@ -291,7 +285,6 @@ Comparison to Unicorn Ad
 
 
 
-                                          Research for Creative Strategy                      adcreativeacademy.com
 ```
 
 ## Page 7
@@ -330,7 +323,6 @@ Creative Fatigue Assessment
 
 
 
-                                        Research for Creative Strategy                           adcreativeacademy.com
 ```
 
 ## Page 8
@@ -356,7 +348,6 @@ List your top 5-10 creatives by hook rate (3-second video views ÷ impressions �
 
 
 
-                                    Research for Creative Strategy                            adcreativeacademy.com
 ```
 
 ## Page 9
@@ -396,7 +387,6 @@ Hook Patterns Analysis
 
 
 
-                                    Research for Creative Strategy                     adcreativeacademy.com
 ```
 
 ## Page 10
@@ -422,7 +412,6 @@ List your top 5-10 creatives by hold rate (ThruPlays ÷ impressions × 100%).
 
 
 
-                                     Research for Creative Strategy                        adcreativeacademy.com
 ```
 
 ## Page 11
@@ -462,7 +451,6 @@ Hold Rate Patterns
 
 
 
-                                        Research for Creative Strategy                    adcreativeacademy.com
 ```
 
 ## Page 12
@@ -526,7 +514,6 @@ Long-Term Trends
 
 
 
-                                     Research for Creative Strategy                    adcreativeacademy.com
 ```
 
 ## Page 13
@@ -593,7 +580,6 @@ Low-Hanging Fruit (Quick Implementation):
 
 
 
-                                      Research for Creative Strategy                      adcreativeacademy.com
 ```
 
 ## Page 14
@@ -645,7 +631,6 @@ Hypothesis 3
 
 
 
-                                    Research for Creative Strategy                 adcreativeacademy.com
 ```
 
 ## Page 15
@@ -674,7 +659,6 @@ comprehensive creative audit.
 
 
 
-                                             Research for Creative Strategy                                  adcreativeacademy.com
 ```
 
 ## Page 16
@@ -687,11 +671,9 @@ The World's First Academy
 
 Get access to all the courses, worksheets, templates, and
 AI prompts to become a world-class Creative Strategist at
-               adcreativeacademy.com
 
 
 
 
-                   adcreativeacademy.com
 ```
 
