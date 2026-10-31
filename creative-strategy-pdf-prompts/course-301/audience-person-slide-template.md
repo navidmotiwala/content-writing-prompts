@@ -50,6 +50,5 @@ A direct response strategy will focus on the key emotional motivators that drive
 
 
 
-                                                                               Research for Creative Strategy                                                                   adcreativeacademy.com
 ```
 
