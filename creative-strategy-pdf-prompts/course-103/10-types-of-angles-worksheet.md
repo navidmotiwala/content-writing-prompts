@@ -15,7 +15,6 @@ Angles Worksheet
 
 
 
-                                       adcreativeacademy.com
 ```
 
 ## Page 2
@@ -70,7 +69,6 @@ How could you apply the Promotion angle to your offer?
 
 
 
-                                        Creative Fundamentals                           adcreativeacademy.com
 ```
 
 ## Page 3
@@ -126,7 +124,6 @@ How could you apply the Education angle to your offer?
 
 
 
-                                         Creative Fundamentals                         adcreativeacademy.com
 ```
 
 ## Page 4
@@ -182,7 +179,6 @@ How could you apply the Social Proof angle to your offer?
 
 
 
-                                         Creative Fundamentals                         adcreativeacademy.com
 ```
 
 ## Page 5
@@ -238,7 +234,6 @@ How could you apply the Influencer angle to your offer?
 
 
 
-                                           Creative Fundamentals                             adcreativeacademy.com
 ```
 
 ## Page 6
@@ -294,7 +289,6 @@ How could you apply the Gifting angle to your offer?
 
 
 
-                                         Creative Fundamentals                            adcreativeacademy.com
 ```
 
 ## Page 7
@@ -350,7 +344,6 @@ How could you apply the New Release angle to your offer?
 
 
 
-                                        Creative Fundamentals                            adcreativeacademy.com
 ```
 
 ## Page 8
@@ -407,7 +400,6 @@ How could you apply the Emotional Benefit angle to your offer?
 
 
 
-                                              Creative Fundamentals                         adcreativeacademy.com
 ```
 
 ## Page 9
@@ -463,7 +455,6 @@ How could you apply the Functional Benefit angle to your offer?
 
 
 
-                                               Creative Fundamentals                         adcreativeacademy.com
 ```
 
 ## Page 10
@@ -519,7 +510,6 @@ How could you apply the Comparison angle to your offer?
 
 
 
-                                         Creative Fundamentals                              adcreativeacademy.com
 ```
 
 ## Page 11
@@ -575,7 +565,6 @@ How could you apply the Seasonality angle to your offer?
 
 
 
-                                         Creative Fundamentals                          adcreativeacademy.com
 ```
 
 ## Page 12
@@ -620,7 +609,6 @@ segments to their likely best angles:
 
 
 
-                                          Creative Fundamentals                           adcreativeacademy.com
 ```
 
 ## Page 13
@@ -665,7 +653,6 @@ Sometimes combining angles creates powerful messaging. List 2-3 potential angle 
 
 
 
-                                                    Creative Fundamentals                                       adcreativeacademy.com
 ```
 
 ## Page 14
@@ -678,11 +665,9 @@ The World's First Academy
 
 Get access to all the courses, worksheets, templates, and
 AI prompts to become a world-class Creative Strategist at
-               adcreativeacademy.com
 
 
 
 
-                   adcreativeacademy.com
 ```
 
