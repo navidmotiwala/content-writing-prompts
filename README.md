@@ -44,7 +44,3 @@ The prompts focus on accurate information, natural writing, complete search inte
 ## Notes
 
 This is a reusable editorial template, not a guarantee of SEO performance. Keyword volumes, ranking factors, statistics, and other claims should be verified using appropriate tools and sources.
-
-## Creative Strategy PDF Prompt Collection
-
-[Browse the Creative Strategy Prompts and Worksheets](creative-strategy-pdf-prompts/README.md). Includes the complete extractable text of 17 supplied PDFs, organized by Course 102, Course 103, and Course 301, with original prompt wording retained page by page.
