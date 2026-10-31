@@ -15,7 +15,6 @@ Course 102: State of Paid Social Advertising & Consumer Psychology
 
 
 
-                                                         adcreativeacademy.com
 ```
 
 ## Page 2
@@ -62,7 +61,6 @@ Audience Pain Point Mining
 
 
 
-                    State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 3
@@ -92,7 +90,6 @@ Market Sophistication Analysis
 
 
 
-                   State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 4
@@ -150,7 +147,6 @@ Multi-Angle Hook Generator
 
 
 
-                     State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 5
@@ -180,7 +176,6 @@ Life-Force 8 Messaging Development
 
 
 
-                     State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 6
@@ -231,7 +226,6 @@ Social Proof Strategy
 
 
 
-                    State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 7
@@ -261,7 +255,6 @@ Authority Building Elements
 
 
 
-                     State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 8
@@ -315,7 +308,6 @@ Emotional Driver Script Development
 
 
 
-                     State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 9
@@ -354,7 +346,6 @@ Multiple Hook Variations
 
 
 
-                     State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 10
@@ -407,7 +398,6 @@ Objection Handler Development
 
 
 
-                       State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 11
@@ -440,7 +430,6 @@ Before-After-Bridge Frameworks
 
 
 
-                     State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 12
@@ -497,7 +486,6 @@ Creative Variation Generator
 
 
 
-                    State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 13
@@ -530,7 +518,6 @@ AI-Enhanced Ad Script Polishing
 
 
 
-                     State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 14
@@ -589,7 +576,6 @@ Video Script Structure Based on Consumer Psychology
 
 
 
-                     State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 15
@@ -631,7 +617,6 @@ How to Effectively Use These Prompts
 
 
 
-                        State of Paid Social Advertising & Consumer Psychology           adcreativeacademy.com
 ```
 
 ## Page 16
@@ -644,11 +629,9 @@ The World's First Academy
 
 Get access to all the courses, worksheets, templates, and
 AI prompts to become a world-class Creative Strategist at
-               adcreativeacademy.com
 
 
 
 
-                   adcreativeacademy.com
 ```
 
